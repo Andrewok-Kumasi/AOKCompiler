@@ -1,1 +1,1 @@
-Token = ['Function', 'End', 'If', 'Else', 'Elif', 'While', '+', '-', '*','/', '=', '==']
+Token = ['function', 'end', 'if', 'else', 'elif', 'while', '+', '-', '*','/', '=', '==']
